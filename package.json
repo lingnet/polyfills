@@ -26,11 +26,11 @@
     "gulp-rollup": "^2.16.2",
     "gulp-size": "^3.0.0",
     "gulp-sourcemaps": "^2.6.4",
-    "lerna": "^3.13.3",
-    "rollup": "^0.62.0",
+    "lerna": "^8.1.8",
+    "rollup": "^3.29.5",
     "rollup-plugin-babel": "^3.0.7",
     "rollup-plugin-commonjs": "^9.2.0",
-    "rollup-plugin-license": "^0.8.1",
+    "rollup-plugin-license": "^3.5.3",
     "web-component-tester": "^6.9.2"
   }
 }
